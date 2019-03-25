@@ -2,6 +2,9 @@
 windows10 + xmapp  
 xmapp的Apache HTTP端口设为8080
 
+# 调试环境
+phpstorm + Xdebug +  chrome Xdebug helper
+
 # 安装phpcms
 1. 在xmapp安装文件夹htdocs文件夹内新建一个文件夹，用来放php的程序代码，我的命名习惯是cms名称+版本号，例如在这里我的
 命名是phpcms_v9.6.3
